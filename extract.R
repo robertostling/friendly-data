@@ -6,6 +6,7 @@
 # https://agricolamz.github.io/2018_Areal_Patterns/1_day.html
 # https://github.com/autotyp/autotyp-data
 # https://gitlab.inria.fr/ud-greenberg/ranlp-2021
+# https://clld.org/datasets.html
 
 library(lingtypology)
 
