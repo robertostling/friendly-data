@@ -5,6 +5,7 @@
 # https://ropensci.github.io/lingtypology/lingtypology_db_API.html
 # https://agricolamz.github.io/2018_Areal_Patterns/1_day.html
 # https://github.com/autotyp/autotyp-data
+# https://gitlab.inria.fr/ud-greenberg/ranlp-2021
 
 library(lingtypology)
 
